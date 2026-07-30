@@ -37,23 +37,23 @@
 
 ---
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Maddydm&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maddydm&layout=compact&theme=tokyonight"/>
-
-</div>
-
 ---
 
 # 🔥 GitHub Streak
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Maddydm&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=Maddydm&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Maddydm&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -63,7 +63,27 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Maddydm&theme=tokyonight&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Maddydm&theme=tokyonight&no-frame=true&column=4&margin-w=15"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Maddydm/Maddydm/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 👀 Profile Views
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Maddydm&style=for-the-badge&color=0e75b6"/>
 
 </div>
 
