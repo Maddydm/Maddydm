@@ -4,30 +4,40 @@
 
 # 👋 Hi, I'm Madhav Menon
 
-### 💻 Full Stack Developer | 🤖 AI Enthusiast | 🏆 Hackathon Builder | ⚽ Football Fan
+### Full Stack Developer • AI Enthusiast • Hackathon Builder
 
-<img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="48%">
-<img src="https://user-images.githubusercontent.com/74038190/227779362-cacda485-cab4-4e28-8a27-a4d2a918a7ac.gif" width="48%">
-
-<br><br>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=28&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;Building+AI+Projects.;Full+Stack+Developer.;Always+Learning+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+AI+Projects;Full+Stack+Developer;Hackathon+Enthusiast;Always+Learning)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
-- 🔭 Currently building AI and Full Stack applications
-- 🧠 Interested in Machine Learning and System Design
-- 🏆 Love participating in Hackathons
-- ⚽ Football enthusiast
-- 🌱 Always learning something new
+```python
+class Madhav:
+
+    role = "Full Stack Developer"
+
+    learning = [
+        "Artificial Intelligence",
+        "System Design",
+        "Cloud",
+        "Machine Learning"
+    ]
+
+    interests = [
+        "Football",
+        "Hackathons",
+        "Open Source"
+    ]
+
+    current_focus = "Building impactful AI projects"
+```
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
 <p align="center">
 
@@ -37,91 +47,45 @@
 
 ---
 
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Maddydm&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Maddydm&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Maddydm&theme=tokyonight&no-frame=true&column=4&margin-w=15"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Maddydm/Maddydm/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
-# 👀 Profile Views
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Maddydm&style=for-the-badge&color=0e75b6"/>
-
-</div>
-
----
-
-# ⚡ Featured Projects
-
-| Project | Description |
-|----------|-------------|
-| 🤖 AI Assistant | Offline AI assistant inspired by JARVIS |
-| 🌐 Full Stack Apps | MERN Stack projects |
-| 🏆 Hackathon Projects | Innovative competition solutions |
-| 🐍 Python Projects | Automation & AI |
-
----
-
-# 🎮 Interests
-
-<div align="center">
-
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTdoNzV5ZmN6bGtnd2tjcG00azUyc2VsZXE5N3ltdnptYjFvMjk0biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ngzsBPRItJK5B4A5Ge/giphy.gif" width="32%">
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjJqaGJ1MXFka2w0d3VsaGhjbDQzY2RlOTF5cWZpNHFnOWgzMHJjNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FBzqZGthkW6KQ/giphy.gif" width="32%">
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExenY3aTJrcDhhYmhsZzg3b2lpZ3NwdGRzN281NW1nbTF6cmYzcnExNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eYwDrm9suCZzy/giphy.gif" width="32%">
-
-</div>
-
----
-
-# 🌍 Connect with Me
+## 📈 GitHub Activity
 
 <p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Maddydm&theme=github-dark-blue&hide_border=true"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Maddydm&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 🤖 AI Assistant | Offline AI assistant inspired by JARVIS |
+| 🌐 MERN Stack | Full Stack Web Applications |
+| 🏆 Hackathon Projects | Innovative solutions |
+| 🐍 Python Automation | AI & Automation |
+
+---
+
+## 🌍 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/Maddydm">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
 
 <a href="https://www.linkedin.com/in/madhav-menon-2120b1380/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
 <a href="https://x.com/maddy1412765">
-<img src="https://skillicons.dev/icons?i=twitter" alt="Twitter/X""/>
+<img src="https://cdn.simpleicons.org/x/white" height="48"/>
 </a>
 
 <a href="mailto:maddyashok019@gmail.com">
@@ -134,10 +98,6 @@
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=Maddydm&color=blue)
-
-### ⭐ Thanks for visiting my profile!
-
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzB3Mjh3OHl6djhqdnNid3B5bDQ3bXloZXdsZWs0eDNrZTcwcGZxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT5LMBojejv7nHpAOc/giphy.gif" width="100%">
+<img src="https://komarev.com/ghpvc/?username=Maddydm&style=for-the-badge&color=0e75b6"/>
 
 </div>
