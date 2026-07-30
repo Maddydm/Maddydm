@@ -36,31 +36,39 @@ class Madhav:
 ```
 ---
 ## 🎯 Quick Stats
-<div align="center" width="100%">
+
+<div align="center">
+
 <table>
-  <tr>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/color/96/000000/rocket.png" width="50" height="50"/><br>
-      <strong>Current Focus</strong><br>
-      <sub>Innovation Cell's ERP</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/color/96/000000/developer.png" width="50" height="50"/><br>
-      <strong>Role</strong><br>
-      <sub>Full Stack Developer</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/color/96/000000/handshake.png" width="50" height="50"/><br>
-      <strong>Looking For</strong><br>
-      <sub>Hackathons & Startups</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/color/96/000000/stack.png" width="50" height="50"/><br>
-      <strong>Primary Stack</strong><br>
-      <sub>.NET · Bootstrap · SQL</sub>
-    </td>
-  </tr>
+<tr>
+
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/96/artificial-intelligence.png" width="50"/><br>
+<strong>Current Focus</strong><br>
+<sub>AI Assistant & Full Stack Apps</sub>
+</td>
+
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/96/source-code.png" width="50"/><br>
+<strong>Role</strong><br>
+<sub>Full Stack Developer</sub>
+</td>
+
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/96/prize.png" width="50"/><br>
+<strong>Looking For</strong><br>
+<sub>Hackathons & Open Source</sub>
+</td>
+
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/96/laptop-coding.png" width="50"/><br>
+<strong>Primary Stack</strong><br>
+<sub>React • Node • Python</sub>
+</td>
+
+</tr>
 </table>
+
 </div>
 ---
 
