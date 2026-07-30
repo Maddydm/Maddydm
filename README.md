@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="YOUR_BANNER_GIF_URL" width="100%"/>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub?utm_source=chatgpt.com" width="100%"/>
 
 # 👋 Hi, I'm Madhav Menon
 
