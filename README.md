@@ -6,8 +6,8 @@
 
 ### 💻 Full Stack Developer | 🤖 AI Enthusiast | 🏆 Hackathon Builder | ⚽ Football Fan
 
-<img src="YOUR_CODING_GIF_URL" width="48%">
-<img src="YOUR_AI_GIF_URL" width="48%">
+<img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="48%">
+<img src="https://user-images.githubusercontent.com/74038190/227779362-cacda485-cab4-4e28-8a27-a4d2a918a7ac.gif" width="48%">
 
 <br><br>
 
