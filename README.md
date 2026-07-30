@@ -84,9 +84,9 @@
 
 <div align="center">
 
-<img src="YOUR_FOOTBALL_GIF_URL" width="32%">
-<img src="YOUR_SPACE_GIF_URL" width="32%">
-<img src="YOUR_TERMINAL_GIF_URL" width="32%">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTdoNzV5ZmN6bGtnd2tjcG00azUyc2VsZXE5N3ltdnptYjFvMjk0biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ngzsBPRItJK5B4A5Ge/giphy.gif" width="32%">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjJqaGJ1MXFka2w0d3VsaGhjbDQzY2RlOTF5cWZpNHFnOWgzMHJjNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FBzqZGthkW6KQ/giphy.gif" width="32%">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExenY3aTJrcDhhYmhsZzg3b2lpZ3NwdGRzN281NW1nbTF6cmYzcnExNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eYwDrm9suCZzy/giphy.gif" width="32%">
 
 </div>
 
