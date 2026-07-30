@@ -118,6 +118,6 @@
 
 ### ⭐ Thanks for visiting my profile!
 
-<img src="YOUR_ENDING_GIF_URL" width="100%">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzB3Mjh3OHl6djhqdnNid3B5bDQ3bXloZXdsZWs0eDNrZTcwcGZxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT5LMBojejv7nHpAOc/giphy.gif" width="100%">
 
 </div>
