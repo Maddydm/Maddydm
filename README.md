@@ -96,15 +96,15 @@
 
 <p align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/madhav-menon-2120b1380/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
 <a href="https://twitter.com/YOUR_USERNAME">
-<img src="https://skillicons.dev/icons?i=twitter"/>
+<img src="https://x.com/maddy1412765"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:maddyashok019@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
