@@ -61,7 +61,7 @@ class Madhav:
 </td>
 
 <td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/laptop-coding.png" width="50"/><br>
+<img src="https://img.icons8.com/color/96/000000/stack.png" width="50"/><br>
 <strong>Primary Stack</strong><br>
 <sub>React • Node • Python</sub>
 </td>
