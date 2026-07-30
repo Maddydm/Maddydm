@@ -1,14 +1,123 @@
 <div align="center">
 
-<img src="https://private-user-images.githubusercontent.com/74038190/238200838-76036311-c8ea-4247-8bf8-a7077623036c.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODU0MzA0MjksIm5iZiI6MTc4NTQzMDEyOSwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA4MzgtNzYwMzYzMTEtYzhlYS00MjQ3LThiZjgtYTcwNzc2MjMwMzZjLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA3MzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNzMwVDE2NDg0OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQ4YjNiM2ZjMDY5NmYzNWViOWM2OTNjYThlOGZiN2Y5NjFmNzBjYjA4ODRlZTY2OTZlZWQ0ZDFjNTZhOTdlNDUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.AklT5kicuQLgqjUswc3z7rkRaKpB80Xo22iAalOAwb8"/>
-</div>
+<img src="YOUR_BANNER_GIF_URL" width="100%"/>
 
 # 👋 Hi, I'm Madhav Menon
 
-### Full Stack Developer | AI Enthusiast | Hackathon Builder
+### 💻 Full Stack Developer | 🤖 AI Enthusiast | 🏆 Hackathon Builder | ⚽ Football Fan
 
-Welcome to my GitHub profile!
+<img src="YOUR_CODING_GIF_URL" width="48%">
+<img src="YOUR_AI_GIF_URL" width="48%">
 
-- 🔭 Currently working on AI and Full Stack projects
-- 🌱 Learning System Design & Machine Learning
-- ⚡ Interested in Football, Open Source, and Hackathons
+<br><br>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=28&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;Building+AI+Projects.;Full+Stack+Developer.;Always+Learning+🚀)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+# 🚀 About Me
+
+- 🔭 Currently building AI and Full Stack applications
+- 🧠 Interested in Machine Learning and System Design
+- 🏆 Love participating in Hackathons
+- ⚽ Football enthusiast
+- 🌱 Always learning something new
+
+---
+
+# 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,react,nodejs,express,mongodb,mysql,git,github,vscode,linux,docker,figma"/>
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Maddydm&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maddydm&layout=compact&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Maddydm&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Maddydm&theme=tokyonight&row=2&column=4"/>
+
+</div>
+
+---
+
+# ⚡ Featured Projects
+
+| Project | Description |
+|----------|-------------|
+| 🤖 AI Assistant | Offline AI assistant inspired by JARVIS |
+| 🌐 Full Stack Apps | MERN Stack projects |
+| 🏆 Hackathon Projects | Innovative competition solutions |
+| 🐍 Python Projects | Automation & AI |
+
+---
+
+# 🎮 Interests
+
+<div align="center">
+
+<img src="YOUR_FOOTBALL_GIF_URL" width="32%">
+<img src="YOUR_SPACE_GIF_URL" width="32%">
+<img src="YOUR_TERMINAL_GIF_URL" width="32%">
+
+</div>
+
+---
+
+# 🌍 Connect with Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://twitter.com/YOUR_USERNAME">
+<img src="https://skillicons.dev/icons?i=twitter"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=Maddydm&color=blue)
+
+### ⭐ Thanks for visiting my profile!
+
+<img src="YOUR_ENDING_GIF_URL" width="100%">
+
+</div>
