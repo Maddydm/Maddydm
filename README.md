@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="YOUR_BANNER_GIF_URL" width="100%"/>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHgzbGVueGR1YnU0NDdraDhyc29zcGZnejVvemY2eWhlaDJscmZ5dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif" width="100%"/>
 
 # 👋 Hi, I'm Madhav Menon
 
