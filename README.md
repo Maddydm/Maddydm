@@ -100,8 +100,8 @@
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="https://twitter.com/YOUR_USERNAME">
-<img src="https://x.com/maddy1412765"/>
+<a href="https://x.com/maddy1412765">
+<img src="https://skillicons.dev/icons?i=twitter" alt="Twitter/X""/>
 </a>
 
 <a href="mailto:maddyashok019@gmail.com">
